@@ -31,7 +31,7 @@ Computer Engineering Student • Software & Hardware Enthusiast
 ```yaml
 name: Ibrahim Khan
 education: Computer Engineering
-university: Hamdard University Islamabad
+university: Comsats University Islamabad
 
 interests:
   - Software Development
